@@ -1,0 +1,11 @@
+{
+    "templates": [{
+        "name": "Issuance of a passport for minor",
+        "key": "issuance-of-a-passport-minor.pdf",
+        "path": "./public/documents/ds3053.pdf"        
+    },{
+        "name": "USPS 1583",
+        "key": "usps-1583.pdf",
+        "path": "./public/documents/ps1583.pdf"
+    }]
+}

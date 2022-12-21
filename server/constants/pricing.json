@@ -1,0 +1,12 @@
+{
+    "pricing": {
+        "Colorado": {
+            "notaryFee": "10.00",
+            "serviceFee": "17.00"
+        },
+        "Others": {
+            "notaryFee": "25.00",
+            "serviceFee": "2.00"
+        }
+    }
+}

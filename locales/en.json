@@ -1,0 +1,10 @@
+{
+  "registration": {
+    "SUBJECT": "Verify your email for Blue Notary",
+    "MESSAGE": "<p>Welcome to Blue Notary!</p> <p>To verify your email, please click in this link:</p> <p>%s/verify?verification=%s</p>"
+  },
+  "forgotPassword": {
+    "SUBJECT": "Password recovery for APP",
+    "MESSAGE": "<p>To recover the password for %s</p> <p>click the following link:</p> <p>%s/auth/reset-password/%s</p> <p>If this was a mistake, please ignore this message.</p> "
+  }
+}
